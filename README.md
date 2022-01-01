@@ -26,6 +26,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+* [X] Remember the process of project development
+* [X] Remember git process
+* [ ] Adding the **Editing** Feature
+* [ ] Improve the **UI / UX** of apps including icons, styling, color, **spacing**
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
