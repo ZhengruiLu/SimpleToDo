@@ -29,7 +29,7 @@ Describe any challenges encountered while building the app.
 * [X] Remember the process of project development
 * [X] Remember **git** process
 * [ ] Adding the **Editing** Feature
-* [ ] Improve the **UI / UX** of apps including icons, styling, color, **spacing**
+* [ ] Improve the **UI / UX** of apps including icons, styling, color, **spacing** 
 
 ## License
 
