@@ -1,6 +1,6 @@
-# Project - *SimpleToDo* - Code Path Prework
+# Project - *ToDo* - Code Path Prework
 
-**SimpleToDo** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
+**ToDo** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
 Submitted by: **Zhengrui Lu**
 
